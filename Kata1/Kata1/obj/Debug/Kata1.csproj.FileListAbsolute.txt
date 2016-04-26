@@ -1,0 +1,5 @@
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\Kata1\bin\Debug\Kata1.dll
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\Kata1\bin\Debug\Kata1.pdb
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\Kata1\obj\Debug\Kata1.csprojResolveAssemblyReference.cache
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\Kata1\obj\Debug\Kata1.dll
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\Kata1\obj\Debug\Kata1.pdb

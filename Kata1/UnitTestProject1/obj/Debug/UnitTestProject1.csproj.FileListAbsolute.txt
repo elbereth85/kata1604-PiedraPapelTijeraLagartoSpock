@@ -1,0 +1,9 @@
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\bin\Debug\Kata1.dll
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\bin\Debug\Kata1.pdb
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\MariaNaval\Documents\Visual Studio 2013\Projects\Kata1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
